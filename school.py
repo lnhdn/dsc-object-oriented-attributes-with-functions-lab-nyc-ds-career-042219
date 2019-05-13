@@ -1,1 +1,2 @@
-class School:
+class School: 
+   pass
